@@ -78,7 +78,7 @@ Prepare a presentation that summarizes your analysis and recommendations and ide
 # Project Demo
 <br>
 
-[DEPLOYED ON HEROKU | CLICK HERE TO TEST THE SYSTEM](https://)
+[DEPLOYED ON HEROKU: CLICK HERE TO TEST THE APPLICATION](https://md-insight-for-cab-investment.herokuapp.com)
 <br>
 
 ![Screenshot from 2022-08-18 15-19-20](https://user-images.githubusercontent.com/86875309/185406727-28fa84f2-af75-4392-8b0e-1272053b5bdf.png)
