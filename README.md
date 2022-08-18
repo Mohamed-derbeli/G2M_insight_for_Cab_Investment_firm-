@@ -64,14 +64,19 @@ Why did you choose to use certain analytical techniques over others?
 What were the results?
 Prepare a presentation that summarizes your analysis and recommendations and identify which company is performing better and is a better investment opportunity for XYZ.
 
-### Deliverables of Week 2 are:
 
-1. EDA Notebook (ipynb file)
 
-2. Data Intake report (pdf file)
+### TECHNOLOGY
+FLASK
 
-3. EDA recommendation and hypothesis results ( It should be in the ipynb notebook and you don't need not to present separate document) 
+HEROKU
 
-You can use either EDA or Modeling and EDA both to deliver the result.
+PICKLE
 
-Remember, there are no wrong answers as long as the data supports them.
+
+
+### Project Demo
+
+DEPLOYED ON HEROKU: CLICK HERE TO TEST THE SYSTEM
+
+![Screenshot from 2022-08-18 15-19-20](https://user-images.githubusercontent.com/86875309/185406727-28fa84f2-af75-4392-8b0e-1272053b5bdf.png)
