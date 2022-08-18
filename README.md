@@ -65,7 +65,7 @@ What were the results?
 Prepare a presentation that summarizes your analysis and recommendations and identify which company is performing better and is a better investment opportunity for XYZ.
 
 
-## ⚠️ THE TECHNOLOGY
+## TECHNOLOGY
 
 * [FLASK](https://en.wikipedia.org/wiki/Flask_(web_framework))
 
