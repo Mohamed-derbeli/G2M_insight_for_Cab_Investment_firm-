@@ -65,18 +65,20 @@ What were the results?
 Prepare a presentation that summarizes your analysis and recommendations and identify which company is performing better and is a better investment opportunity for XYZ.
 
 
+## ⚠️ THE TECHNOLOGY
 
-### TECHNOLOGY
-FLASK
+* [FLASK](https://en.wikipedia.org/wiki/Flask_(web_framework))
 
-HEROKU
+* [HEROKU](https://en.wikipedia.org/wiki/Heroku)
 
-PICKLE
+* [PICKLE](https://en.wikipedia.org/wiki/Pickle)
 
+* [RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)<br><br>
 
+# Project Demo
+<br>
 
-### Project Demo
-
-DEPLOYED ON HEROKU: CLICK HERE TO TEST THE SYSTEM
+[DEPLOYED ON HEROKU | CLICK HERE TO TEST THE SYSTEM](https://)
+<br>
 
 ![Screenshot from 2022-08-18 15-19-20](https://user-images.githubusercontent.com/86875309/185406727-28fa84f2-af75-4392-8b0e-1272053b5bdf.png)
